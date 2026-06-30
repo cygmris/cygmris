@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="https://github.com/cygmris">
-    <img alt="What I do" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=F75C7E&center=true&vCenter=true&width=640&lines=AI+Application+Engineer;Full-Stack+Engineer+%26+Architect;Security+Researcher+since+2008;Frontend+since+the+jQuery+era;Golang+%C2%B7+React+%C2%B7+Qt6;%E4%B8%AD%E6%96%87+%C2%B7+English+%C2%B7+%E7%B2%B5%E8%AA%9E" />
+    <img alt="What I do" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=F75C7E&center=true&vCenter=true&width=640&lines=AI+Application+Engineer;Full-Stack+Engineer+%26+Architect;Security+Researcher+since+2008;Backend+since+2011;Frontend+since+the+jQuery+era;Golang+%C2%B7+React+%C2%B7+Qt6;%E4%B8%AD%E6%96%87+%C2%B7+English+%C2%B7+%E7%B2%B5%E8%AA%9E" />
   </a>
 </div>
 
@@ -37,6 +37,7 @@
 - 🧠 **AI Application Engineer** — building real-world products on top of LLMs and AI.
 - 🏗️ **Full-Stack Engineer & Architect** — end-to-end design across **backend, desktop, and web**.
 - 🔐 **Security since 2008** — reverse engineering, code analysis, and security auditing.
+- ⚙️ **Backend since 2011** — PHP (CodeIgniter / Laravel) → Python (Flask / Django, incl. OpenStack secondary-dev) → Spring Cloud → Go / FastAPI (incl. Stable Diffusion secondary-dev, 2023).
 - 🌐 **Frontend since the jQuery era** — jQuery → AngularJS 1.x → Vue 2/3 → React.
 - 🧩 **Main stack today:** Golang · React · Qt6 — plus Delphi / Lazarus (Object Pascal) and .NET.
 - 🗣️ **Languages:** 中文 · English · 粵語 (Cantonese).
@@ -47,22 +48,27 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img alt="Languages & tools" src="https://skillicons.dev/icons?i=go,cs,ts,js,html,css,jquery,angular,vue,react,qt,dotnet,docker,git,linux,vscode&perline=16" />
-</div>
-
-<div align="center">
-  <sub><em>Frontend journey: jQuery → AngularJS 1.x → Vue 2/3 → React</em></sub>
-</div>
-
-<div align="center">
-  <!-- Object Pascal family (no skillicons icon available) -->
-  <img alt="Delphi" src="https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge" />
-  <img alt="Lazarus" src="https://img.shields.io/badge/Lazarus-1F6FB2?style=for-the-badge" />
-  &nbsp;&nbsp;
-  <!-- Security domain -->
-  <img alt="Reverse Engineering" src="https://img.shields.io/badge/Reverse_Engineering-0D1117?style=for-the-badge" />
-  <img alt="Code Audit" src="https://img.shields.io/badge/Code_Audit-1A1A2E?style=for-the-badge" />
-  <img alt="Security Research" src="https://img.shields.io/badge/Security_Research-8B0000?style=for-the-badge" />
+<b>⚙️ Backend</b> &nbsp;<sub>· since 2011</sub><br/>
+<img alt="Backend stack" src="https://skillicons.dev/icons?i=php,laravel,python,flask,django,openstack,java,spring,fastapi,go&perline=10" /><br/>
+<sub><em>PHP (CodeIgniter / Laravel) → Python (Flask / Django, incl. OpenStack secondary-dev) → Spring Cloud → Go / FastAPI (incl. Stable Diffusion secondary-dev, 2023)</em></sub>
+<br/><br/>
+<b>🎨 Frontend</b> &nbsp;<sub>· since the jQuery era</sub><br/>
+<img alt="Frontend stack" src="https://skillicons.dev/icons?i=jquery,angular,vue,react,ts,js,html,css&perline=8" /><br/>
+<sub><em>jQuery → AngularJS 1.x → Vue 2/3 → React</em></sub>
+<br/><br/>
+<b>🖥️ Desktop / .NET</b><br/>
+<img alt="Desktop stack" src="https://skillicons.dev/icons?i=qt,dotnet,cs&perline=3" />
+&nbsp;
+<img alt="Delphi" src="https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge" />
+<img alt="Lazarus" src="https://img.shields.io/badge/Lazarus-1F6FB2?style=for-the-badge" />
+<br/><br/>
+<b>🧰 DevOps / Tools</b><br/>
+<img alt="DevOps tools" src="https://skillicons.dev/icons?i=docker,git,linux,vscode&perline=4" />
+<br/><br/>
+<b>🔐 Security</b> &nbsp;<sub>· since 2008</sub><br/>
+<img alt="Reverse Engineering" src="https://img.shields.io/badge/Reverse_Engineering-0D1117?style=for-the-badge" />
+<img alt="Code Audit" src="https://img.shields.io/badge/Code_Audit-1A1A2E?style=for-the-badge" />
+<img alt="Security Research" src="https://img.shields.io/badge/Security_Research-8B0000?style=for-the-badge" />
 </div>
 
 ---
