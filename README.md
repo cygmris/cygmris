@@ -3,13 +3,11 @@
   This file must live in a repo named exactly "cygmris" (github.com/cygmris/cygmris)
   so GitHub renders it on your profile page.
 
-  NOTE on the GitHub stats cards below:
-  The PUBLIC github-readme-stats instance is sometimes rate-limited (HTTP 503).
-  It usually still renders for visitors via GitHub's image cache. If you want it
-  bulletproof, self-host your own instance and swap the domain:
-    1. Fork  https://github.com/anuraghazra/github-readme-stats
-    2. Deploy it to Vercel, add a GitHub PAT as env var PAT_1
-    3. Replace "github-readme-stats.vercel.app" with "<your-app>.vercel.app"
+  The GitHub stats cards below are served from a SELF-HOSTED github-readme-stats
+  instance at https://cygmris-stats.vercel.app (Vercel project: cygmris-stats),
+  to avoid the public instance's rate limits (HTTP 503).
+  To raise the API limit to 5000/hr, add a GitHub PAT as env var PAT_1 in the
+  Vercel project settings, then redeploy.
 -->
 
 <div align="center">
@@ -72,8 +70,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" alt="Chris's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=cygmris&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cygmris&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+  <img height="165" alt="Chris's GitHub stats" src="https://cygmris-stats.vercel.app/api?username=cygmris&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" />
+  <img height="165" alt="Top languages" src="https://cygmris-stats.vercel.app/api/top-langs/?username=cygmris&layout=compact&langs_count=8&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
