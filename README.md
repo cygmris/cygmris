@@ -39,7 +39,7 @@
 - 🧠 **AI Application Engineer** — building real-world products on top of LLMs and AI.
 - 🏗️ **Full-Stack Engineer & Architect** — end-to-end design across **backend, desktop, and web**.
 - 🔐 **Security since 2008** — reverse engineering, code analysis, and security auditing.
-- 🌐 **Frontend since the jQuery era** — jQuery → AngularJS 1.x → React.
+- 🌐 **Frontend since the jQuery era** — jQuery → AngularJS 1.x → Vue 2/3 → React.
 - 🧩 **Main stack today:** Golang · React · Qt6 — plus Delphi / Lazarus (Object Pascal) and .NET.
 - 🗣️ **Languages:** 中文 · English · 粵語 (Cantonese).
 - 🌍 **More about me:** [schoolpot.org](https://schoolpot.org)
@@ -49,11 +49,11 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img alt="Languages & tools" src="https://skillicons.dev/icons?i=go,cs,ts,js,html,css,jquery,angular,react,qt,dotnet,docker,git,linux,vscode&perline=15" />
+  <img alt="Languages & tools" src="https://skillicons.dev/icons?i=go,cs,ts,js,html,css,jquery,angular,vue,react,qt,dotnet,docker,git,linux,vscode&perline=16" />
 </div>
 
 <div align="center">
-  <sub><em>Frontend journey: jQuery → AngularJS 1.x → React</em></sub>
+  <sub><em>Frontend journey: jQuery → AngularJS 1.x → Vue 2/3 → React</em></sub>
 </div>
 
 <div align="center">
